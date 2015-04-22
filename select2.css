@@ -147,9 +147,10 @@ html[dir="rtl"] .select2-container .select2-choice > .select2-chosen {
     border-top: 0;
 
     border-radius: 0 0 4px 4px;
-
+    /*
     -webkit-box-shadow: 0 4px 5px rgba(0, 0, 0, .15);
             box-shadow: 0 4px 5px rgba(0, 0, 0, .15);
+    */
 }
 
 .select2-drop.select2-drop-above {
@@ -277,9 +278,10 @@ html[dir="rtl"] .select2-search input {
 .select2-container-active .select2-choices {
     border: 1px solid #5897fb;
     outline: none;
-
+    /*
     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .3);
             box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+    */
 }
 
 .select2-dropdown-open .select2-choice {
